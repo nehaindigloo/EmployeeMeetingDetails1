@@ -1,0 +1,19 @@
+# Ignore all log files
+
+*.log
+
+
+# Ignore specific directory
+
+bin/
+
+
+# Ignore all .txt files in a specific directory
+
+docs/*.txt
+
+
+# Ignore a specific file
+
+config/secret.yml
+
